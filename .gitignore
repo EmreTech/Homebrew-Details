@@ -1,5 +1,10 @@
 .vs
+.vscode
 build.nx
 Debug
 library
 include/extern/
+forwarder/build/*
+forwarder/*.elf
+forwarder/*.nacp
+forwarder/*.nro
